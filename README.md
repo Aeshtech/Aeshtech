@@ -6,15 +6,14 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 (Please visit my website)
 - 🌍 Portofolio Website - <a href="https://aeshtech.netlify.app/" target="_blank" title="https://starlit-gingersnap-479050.netlify.app/">Aeshtech</a>
-- 🖥  MERN Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🖥  Software Engineer Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 Completed B.Tech in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 from AKTU University.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 
-- 🔭 I’m currently working on MERN Stack Development.
-- 🌱 I’m preparing my self for strong problem solving ability. 
+- 🌱 I’m preparing my self for strong problem solving ability and scalable system design. 
 - 👯 I’m looking for some interested team mates to work on some great ideas.
-- 💬 Ask me about anything what you like because I only answer what I like to.
-- 📫 How to reach me: 
+- 💬 Ask me about anything what you like.
+- 📫 How to reach me: <a href="https://linkedin.com/in/aeshtech" target="_blank">Linkedin</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The more you understand me the more will you like me.
 

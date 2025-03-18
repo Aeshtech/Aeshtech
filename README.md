@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Aeshtech/aeshtech/main/name.svg" alt="Frontend Engineer" />
 </h1>
-<h2> Hello World 👋 Jai Shree Krishna - This is Ashish Sharma <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Hello World👋 - This is Ashish Sharma <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 <a href="https://aeshtech.netlify.app/" target="_blank" title="https://starlit-gingersnap-479050.netlify.app/">Aeshtech</a>
 - 🖥  Software Engineer II Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Aeshtech/aeshtech/main/name.svg" alt="Frontend Engineer" />
+  <img src="https://raw.githubusercontent.com/Aeshtech/aeshtech/main/name.svg" alt="Software Engineer Frontend" />
 </h1>
 <h2> Hello World👋 - This is Ashish Sharma <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
